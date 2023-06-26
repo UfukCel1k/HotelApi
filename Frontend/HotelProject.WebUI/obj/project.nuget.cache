@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhqnAqDiAjYLeJi4A4oJDsMhWxyvK+g5R7dW9dr0DS5Tb8WypyRN0n1WjXjSII3AuNUVlCmfAHrZ5iYBFTYSQQ==",
+  "dgSpecHash": "wfEuw9dVrv0hJUFIOdlM9k8GMdE5iV96zKOGplarHrQLQEM4x5BUp5ePSqGe8fvV4ZwBAcLMD2owQV9nQBDGSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ufukc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ufukc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj": {}
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
         "projectName": "HotelProject.BusinessLayer",
-        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\ufukc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
               },
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
         "projectName": "HotelProject.DataAccessLayer",
-        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ufukc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
         "projectName": "HotelProject.DtoLayer",
-        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
         "packagesPath": "C:\\Users\\ufukc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\obj\\",
+        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,8 +205,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "projectName": "HotelProject.EntityLayer",
-        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ufukc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj": {
+    "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
         "projectName": "HotelProject.WebApi",
-        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+        "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
         "packagesPath": "C:\\Users\\ufukc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HoteApi\\ApiConsume\\HotelProject.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -372,17 +372,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj"
               },
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
               },
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
               },
-              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ufukc\\OneDrive\\Belgeler\\Visual Studio 2022\\MyProjects\\HotelApi\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
