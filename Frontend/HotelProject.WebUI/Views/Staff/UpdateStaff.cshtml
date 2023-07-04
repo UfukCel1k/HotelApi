@@ -1,12 +1,13 @@
-﻿@model AddStaffViewModel
+﻿@model UpdateStaffViewModel
 @{
-    ViewData["Title"] = "AddStaff";
+    ViewData["Title"] = "UpdateStaff";
     Layout = "~/Views/AdminLayout/_AdminLayout.cshtml";
 }
 
 <form method="post">
+    <input type="hidden" asp-for="StaffID" />
     <label>Personel Adı</label>
-    <input type="text" asp-for="Name" class="form-control"/>
+    <input type="text" asp-for="Name" class="form-control" />
     <br />
     <label>Personel Ünvanı</label>
     <input type="text" asp-for="Title" class="form-control" />
@@ -15,11 +16,10 @@
     <input type="text" asp-for="SocialMedia1" class="form-control" />
     <br />
     <label>Sosyal Medya 2</label>
-    <input type="text" asp-for="SocialMedia2" class="form-control"/>
+    <input type="text" asp-for="SocialMedia2" class="form-control" />
     <br />
     <label>Sosyal Medya 3</label>
     <input type="text" asp-for="SocialMedia3" class="form-control" />
     <br />
-    <button class="btn mb-1 btn-rounded btn-outline-primary">Personel Ekle</button>
+    <button class="btn mb-1 btn-rounded btn-outline-success">Personel Güncelle</button>
 </form>
-
