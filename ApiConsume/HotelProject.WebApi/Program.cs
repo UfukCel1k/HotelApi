@@ -29,6 +29,9 @@ builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
 builder.Services.AddScoped<ITestimonialDal, EfTestimonialDal>();
 builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+builder.Services.AddScoped<IAboutService, AboutManager>();
+
 builder.Services.AddAutoMapper(typeof(IStartup));
 //AddCors bi Api'nin baþka Api'ler tarafýndan tüketilmesine saðlayan metod.
 builder.Services.AddCors(opt =>
